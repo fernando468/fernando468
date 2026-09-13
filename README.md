@@ -1,16 +1,50 @@
-## Hi there 👋
+Olá! Eu sou o Fernando
 
-<!--
-**fernando468/fernando468** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Full stack.
 
-Here are some ideas to get you started:
+Atualmente foco principalmente no desenvolvimento backend, criando APIs, microsserviços e aplicações escaláveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+
+**Backend**
+
+- ☕ Java
+
+- 🌱 Spring Boot
+
+- 🔗 APIs REST
+
+- 🧩 Microsserviços
+
+- 🐇 RabbitMQ
+
+- 🟢 Node.JS
+
+**Frontend**
+
+- ⚛️ React
+
+- 🅰️ Angular
+
+- 🟨 JavaScript
+
+- 🔷 TypeScript
+
+**Banco de dados**
+
+- 🗄️ SQL
+
+## **📌 Sobre mim**
+
+- 💻 Desenvolvedor focado em Java e Spring Boot
+
+- 🔨 Experiência com desenvolvimento de APIs e microsserviços
+
+- 🌐 Também desenvolvo aplicações frontend com React e Angular
+
+- 📚 Sempre buscando aprender e evoluir como desenvolvedor
+
+## 🔗 Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/fernando468/)
+- 📧 [Email](mailto:foliveiras468@gmail.com)
